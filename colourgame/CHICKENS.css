@@ -1,0 +1,10 @@
+#square {
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+    background-color: red;
+    border-style: outset;
+}
+#b1{
+    display:inline-block;
+}
